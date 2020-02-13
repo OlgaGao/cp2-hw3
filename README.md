@@ -9,4 +9,4 @@ simulation:when you catch the toys, the score changes or when you run out of the
 
 data: move the claw, x,y position;catch the toys, how many you caught will affect the score;
 
-events:when put the coin into the machine, the timer will start; or when you move the controller, the claw will move back,forth and also up and down; when you catch the toy, the score will trigger to change the number; when click on the button, the claw will go down and do the catch action; when touch the toy, the claw will go back to the x,y position;
+events:when put the coin into the machine, the timer will start; or when you move the controller, the claw will move back,forth and also up and down; when you catch the toy, the score will trigger to change the number; when click on the button, the claw will go down and do the catch action; when touch the toy, the claw will go back to the x,y position;when caught the toys, the tickets will come out.
